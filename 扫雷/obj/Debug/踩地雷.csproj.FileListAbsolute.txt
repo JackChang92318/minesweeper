@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\MineSweeper-master - 複製\扫雷\扫雷\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\user\Desktop\MineSweeper-master - 複製\扫雷\扫雷\bin\Debug\WindowsFormsApp2.exe
+C:\Users\user\Desktop\MineSweeper-master - 複製\扫雷\扫雷\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\user\Desktop\MineSweeper-master - 複製\扫雷\扫雷\obj\Debug\踩地雷.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\MineSweeper-master - 複製\扫雷\扫雷\obj\Debug\踩地雷.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\MineSweeper-master - 複製\扫雷\扫雷\obj\Debug\WindowsFormsApp2.MainWin.resources
+C:\Users\user\Desktop\MineSweeper-master - 複製\扫雷\扫雷\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\user\Desktop\MineSweeper-master - 複製\扫雷\扫雷\obj\Debug\WindowsFormsApp2.MapSize.resources
+C:\Users\user\Desktop\MineSweeper-master - 複製\扫雷\扫雷\obj\Debug\WindowsFormsApp2.Rank.resources
+C:\Users\user\Desktop\MineSweeper-master - 複製\扫雷\扫雷\obj\Debug\WindowsFormsApp2.YouWin__.resources
+C:\Users\user\Desktop\MineSweeper-master - 複製\扫雷\扫雷\obj\Debug\WindowsFormsApp2.BS.resources
+C:\Users\user\Desktop\MineSweeper-master - 複製\扫雷\扫雷\obj\Debug\踩地雷.csproj.GenerateResource.cache
+C:\Users\user\Desktop\MineSweeper-master - 複製\扫雷\扫雷\obj\Debug\踩地雷.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MineSweeper-master - 複製\扫雷\扫雷\obj\Debug\WindowsFormsApp2.exe
+C:\Users\user\Desktop\MineSweeper-master - 複製\扫雷\扫雷\obj\Debug\WindowsFormsApp2.pdb
